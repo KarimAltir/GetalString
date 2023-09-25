@@ -23,7 +23,7 @@ namespace Eigenshappen
 
         public override string ToString()
         {
-            return "de tekst is:" + Getal;
+            return "de tekst is: " + Getal;
         }
 
     }
